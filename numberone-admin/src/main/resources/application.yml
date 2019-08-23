@@ -14,10 +14,10 @@ numberone:
 # 开发环境配置
 server:
   # 服务端口
-  port: 8080
+  port: 8090
   servlet:
     # 项目contextPath
-    context-path: /numberone
+    context-path: /
   tomcat:
     # tomcat的URI编码
     uri-encoding: UTF-8
